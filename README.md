@@ -1,4 +1,8 @@
 ## Airbnb
+![New York City](https://tophotel.news/wp-content/uploads/2019/03/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
+*Image: Getty Images/iStock*
+
+
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, 
 personalized way of experiencing the world. 
 This dataset describes the listing activity and metrics in NYC for 2019.<br />
